@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://oloyaeca.github.io/Eie/sitemap_index.txt
+Sitemap: https://oloyaeca.github.io/HCt/sitemap_index.txt
+Sitemap: https://oloyaeca.github.io/Onv/sitemap_index.txt
+Sitemap: https://oloyaeca.github.io/ysv/sitemap_index.txt
